@@ -1,0 +1,14 @@
+Plan of the Application : 
+    1 - Preparing the project                   [+]
+    2 - Building Notepad GUI                    [+]
+    3 - File Menu Logic (New, Open, Save...)    [+]
+    4 - Edit Menu Logic (Undo, Redo)            [-]
+    5 - Format Menu Logic (Wrap, Align, Font)   [-]
+    6 - View Menu (Zoom in, Zoom out)           [-]
+    7 - Finished!!!                             [-]
+
+    [ 1 - Preparing the project ] : 
+     
+    Jar files : 
+        JTattoo
+        
